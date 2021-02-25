@@ -1,4 +1,4 @@
-# Commits Rules
+## Commits Rules
 
 Example
 ```
